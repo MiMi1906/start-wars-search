@@ -8,6 +8,9 @@
   <link href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" rel="stylesheet">
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/customize.css">
+
+  <link rel="icon" type="image/x-icon" href="/favicon.jpg">
+  <link rel="apple-touch-icon" sizes="125x125" href="/favicon.jpg">
   <title>Search</title>
 </head>
 
@@ -16,7 +19,7 @@
     <div class="d-flex flex-row align-items-center menu">
       <a href="https://mail.google.com/mail/?authuser=0&ogbl" class="menu-text menu-link">E-mail</a>
       <a href="https://www.google.co.jp/imghp?hl=en&authuser=0&ogbl" class="menu-text menu-link">Images</a>
-      <a href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/" class="menu-link"><i class=" fas fa-jedi profile-icon" style="margin-left: 1rem;"></i></a>
+      <a href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/" class="menu-link"><i class="fab fa-google profile-icon" style="margin-left: 1rem;"></i></a>
     </div>
     <div class="row d-flex align-items-center justify-content-center">
       <h1 class="logo text-center mb-5"><i class="fab fa-old-republic mx-3"></i>SEARCH</h1>
