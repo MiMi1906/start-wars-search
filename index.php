@@ -14,9 +14,9 @@
 <body>
   <div class="container d-flex flex-column align-items-center justify-content-center" style="height: 100vh;">
     <div class="d-flex flex-row align-items-center menu">
-      <span class="menu-text">E-mail</span>
-      <span class="menu-text">Images</span>
-      <i class="fas fa-jedi profile-icon" style="margin-left: 1rem;"></i>
+      <a href="https://mail.google.com/mail/?authuser=0&ogbl" class=" menu-text">E-mail</a>
+      <a href="https://www.google.co.jp/imghp?hl=en&authuser=0&ogbl" class=" menu-text">Images</a>
+      <a href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/"><i class="fas fa-jedi profile-icon" style="margin-left: 1rem;"></i></a>
     </div>
     <div class="row d-flex align-items-center justify-content-center">
       <h1 class="logo text-center mb-5"><i class="fab fa-old-republic mx-3"></i>SEARCH</h1>
