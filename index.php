@@ -9,8 +9,8 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/customize.css">
 
-  <link rel="icon" type="image/x-icon" href="/favicon.jpg">
-  <link rel="apple-touch-icon" sizes="125x125" href="/favicon.jpg">
+  <link rel="icon" type="image/x-icon" href="/favicon.png">
+  <link rel="apple-touch-icon" sizes="125x125" href="/favicon.png">
   <title>Search</title>
 </head>
 
