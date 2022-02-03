@@ -20,6 +20,11 @@ body{
   right: 20px;
 }
 
+.menu-link{
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
 .menu-text{
   display: flex;
   flex-direction: row;
